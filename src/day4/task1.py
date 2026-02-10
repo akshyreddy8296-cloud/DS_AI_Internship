@@ -36,7 +36,7 @@ print(f"Unique set length: {len(u_users)}")
 print(f"Unique User IDs: {u_users}")
 
 
-#task3
+# #task3
 friend_a = {"Python", "Cooking", "Hiking", "Movies"}
 friend_b = {"Hiking", "Gaming", "Photography", "Python"}
 
